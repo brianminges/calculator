@@ -34,11 +34,8 @@ body {
     background-color: #002642;
     color: white;
     border: none;
+    border-radius: 5%;
 }
-
-/* .calculator-grid button:hover {
-    background: lightgray;
-} */
 
 .span-two {
     grid-column: span 2;
@@ -79,4 +76,5 @@ body {
     background-color: lightgray;
     color: black;
     border: 1px solid black;
+    border-radius: 5%;
 }
