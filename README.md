@@ -1,4 +1,5 @@
-![calculatorfull](https://user-images.githubusercontent.com/91277363/201498239-079418a0-f514-41f7-9c2b-532c7733fd64.png)
+![calculatorcrop](https://user-images.githubusercontent.com/91277363/201498270-65fdf3e6-3825-4109-aacd-16b5f77e236a.png)
+ 
 
 # Calculator: a modern abacus
 An app to perform basic mathematical computations
