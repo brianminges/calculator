@@ -1,3 +1,4 @@
+![calculatorfull](https://user-images.githubusercontent.com/91277363/201498239-079418a0-f514-41f7-9c2b-532c7733fd64.png)
 
 # Calculator: a modern abacus
 An app to perform basic mathematical computations
@@ -18,8 +19,7 @@ This is an independent project created as a portfolio piece. It allows for addit
 + Proper formatting for long digits.
 
 ## Demo
-![login](https://user-images.githubusercontent.com/91277363/189794474-7bc16f44-3af4-4ff7-a0c8-90173c6a6525.gif)
-![profile](https://user-images.githubusercontent.com/91277363/189796445-39682522-b5d9-47e2-a8ab-ec67d4142a06.gif)
+![calculatordemo](https://user-images.githubusercontent.com/91277363/201498232-12a58ec3-0fb5-431f-ae38-fe96dd2c22a0.gif)
 
 ## Setup
 1. Clone this repository.
